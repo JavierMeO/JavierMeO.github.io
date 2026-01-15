@@ -12,4 +12,5 @@ export default {
     extend: {},
   },
   plugins: [],
+  base: "IAurora"
 }
